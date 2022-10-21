@@ -1,8 +1,8 @@
 # Repository created to help me record all the content I study Swift.
 
-<p align="center">
-    <iframe src="https://giphy.com/embed/ule4vhcY1xEKQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactionseditor-cat-typing-ule4vhcY1xEKQ"></a></p>
-</p>
+<div style="width:480px">
+        <iframe position="center" allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/nuufztgCvyJZIuSkgd/video" width="480"></iframe>
+</div>
 
 First: [Getting Started](https://www.swift.org/getting-started/) por Swift.org
 
