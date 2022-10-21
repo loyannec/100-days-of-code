@@ -1,8 +1,6 @@
 # Repository created to help me record all the content I study Swift.
 
-<p>
 <iframe src="https://giphy.com/embed/nuufztgCvyJZIuSkgd/video"></iframe>
-</p>
 
 First: [Getting Started](https://www.swift.org/getting-started/) por Swift.org
 
