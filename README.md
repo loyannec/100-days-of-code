@@ -15,7 +15,7 @@ First: [Getting Started](https://www.swift.org/getting-started/) por Swift.org
 
 #### Logic:
 
-- [Curso de Swift](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-), por [Tiago Aguiar](https://www.youtube.com/c/TiagoAguiar) (Dica de [Loyanne Repolho](https://github.com/loyannec))
+- [Curso de Swift](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-), por [Tiago Aguiar](https://www.youtube.com/c/TiagoAguiar)
 
 #### Documentation:
 
