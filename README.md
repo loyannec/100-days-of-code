@@ -1,7 +1,7 @@
 # Repository created to help me record all the content I study Swift.
 
 <div style="width:480px">
-        <iframe position="center" allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/nuufztgCvyJZIuSkgd/video" width="480"></iframe>
+<iframe src="https://giphy.com/embed/nuufztgCvyJZIuSkgd/video"></iframe>
 </div>
 
 First: [Getting Started](https://www.swift.org/getting-started/) por Swift.org
